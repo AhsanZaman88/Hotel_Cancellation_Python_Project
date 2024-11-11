@@ -13,3 +13,6 @@ Future Work
 Predictive Modeling: Develop models to forecast cancellations.
 Feature Engineering: Enhance features to capture more patterns.
 Dashboard Creation: Build visual dashboards for real-time monitoring of cancellation trends.
+
+uses:
+Python Libraries, Numpy , Pandas , Matplotlib , Seaborn
