@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/61657846-39bd-449c-8eaa-6db1a419f8fb
+
 #Hotel_Cancellation_Python_Project
 #Hotel Reservation Cancellation Analysis
 Introduction
